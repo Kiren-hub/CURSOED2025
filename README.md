@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Primer Taller
 
 ## Descripción breve
@@ -40,3 +41,6 @@ Abre una terminal en la carpeta `actividades` y ejecuta:
 gcc primertaller.c -o primertaller.exe
 primertaller.exe
 ```
+=======
+"# CURSOED2025" 
+>>>>>>> c8489d24b606bc03558b74b4558860cd5e944cc9
